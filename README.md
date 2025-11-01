@@ -12,10 +12,10 @@ Follow these steps to set up and run the project locally.
 ### 🪣 Step 1: Clone or Download the Repository
 
 ```bash
-git clone https://github.com/sh90/GenAI_session4_hybridRAG.git
+git clone https://github.com/sh90/GenAI_session4_multi_modal.git
 ```
 
-Alternatively, you can [download the ZIP file](https://github.com/sh90/GenAI_session4_hybridRAG/archive/refs/heads/master.zip) and extract it.
+Alternatively, you can [download the ZIP file](https://github.com/sh90/GenAI_session4_multi_modal/archive/refs/heads/master.zip) and extract it.
 
 ---
 
@@ -69,7 +69,7 @@ Add your keys or credentials inside the `.env` file as required.
 ### 🚀 Step 7: Run the Application
 
 ```bash
-streamlit run .\hybrid_rag\streamlit_app_hybrid_rag.py
+streamlit run .\multi_modal_rag\streamlit_app_langchain_multimodal.py
 ```
 
 ---
